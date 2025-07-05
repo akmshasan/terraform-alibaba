@@ -1,4 +1,4 @@
-name: Terraform Deploy to Alibaba Cloud for Staging environment
+name: Terraform Deploy to Alibaba Cloud for Production environment
 
 on:
   push:
